@@ -157,4 +157,45 @@ ul {
     text-align: right;
 }
 
+.section-4 {
+    padding: 48px;
+}
 
+.title-4 {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.subtitle-4 {
+    font-size: 16px;
+    color: #F9FAF8;
+}
+
+.card {
+    background-color: #3882F6;
+    border-radius: 5px;
+    padding: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-4-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 16px;
+    border: none;
+    border: 2px solid white;
+    border-radius: 8px;
+    padding: 8px 24px;
+    font-weight: bold;
+}
+
+.footer{
+    padding: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
