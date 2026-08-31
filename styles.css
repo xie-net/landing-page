@@ -1,4 +1,4 @@
-* {
+/** {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 
@@ -24,6 +24,11 @@ body {
     flex: 0 0 auto;
     padding: 8px 20px;
     font-size: 16px;
+    background-color: #3882F6;
+    border-radius: 10px;
+    border:none;
+    color: #E5E7EB;
+    font-weight: bold;
 }
 
 .section-1 {
@@ -68,3 +73,4 @@ ul {
     list-style: none;
     gap: 20px;
 }
+*/
